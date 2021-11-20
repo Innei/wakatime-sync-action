@@ -1,8 +1,0 @@
-name: "waka-box"
-description: "Update a pinned gist to contain WakaTime stats"
-branding:
-  icon: "clipboard"
-  color: "blue"
-runs:
-  using: "node12"
-  main: "dist/index.js"
